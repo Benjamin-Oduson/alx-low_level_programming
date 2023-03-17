@@ -1,0 +1,4 @@
+git add .
+git commit -m'There is no shame in tying again'
+git push
+git status
